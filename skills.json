@@ -1,0 +1,25 @@
+{
+	"Skill1": "Basic Theory",
+        "Skill2": "Client-Server Architecture",
+        "Skill3": "HTTP request methods",
+        "Skill4": "HTTP server response status codes",
+        "Skill5": "JSON and XML structure",
+        "Skill6": "API testing using Postman",
+        "Skill7": "Working with log files from external server",
+        "Skill8": "Web traffic sniffing using Charels and Fiddler",
+        "Skill9": "Developer Tools",
+        "Skill10": "Virtual Private Network",
+        "Skill11": "Mobile testing",
+        "Skill12": "iOS, Android Guidelines",
+        "Skill13": "Android Studio and XCode",
+        "Skill14": "ADB Android Debug Bridge"
+        "Skill15": "Terminal and gitbush for file managment",
+        "Skill16": "Remote server access",
+        "Skill17": "SQL basics",
+        "Skill18": "PostgreSQL",
+        "Skill19": "Non-relational database Redis",
+        "Skill20": "JMeter load testing",
+        "Skill21": "Scrum methodology",
+        "Skill22": "Python basics"
+}
+
