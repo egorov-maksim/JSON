@@ -1,5 +1,9 @@
 {
-	 "Some information"
+	"FirstName": "Maksim",
+	"LastName": "Egorov",
+	"Age": 27,
+	"NumOfPets": 1,
+	"Salary": "3000000"
 }
 
 
