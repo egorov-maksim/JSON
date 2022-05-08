@@ -1,2 +1,2 @@
 # JSON
-JSON repo for homework
+JSON repo for Git homework #1
